@@ -38,16 +38,6 @@ section {
     margin-bottom: 1rem;
 }
 
-footer {
-    background-color: #333;
-    color: white;
-    text-align: center;
-    padding: 1rem;
-    position: none;
-    width: 100%;
-    bottom: 0;
-}
-
 form {
     display: flex;
     flex-direction: column;
